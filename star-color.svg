@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <!-- Author: SENOO, Ken
      Lincense: CC0
      This work is licensed under the CC0 1.0 Universal Lincense (https://creativecommons.org/publicdomain/zero/1.0/). To the extent possible under law, I have waived all copyright and related or neighboring rights to this work.
@@ -17,8 +18,11 @@
    height="100"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="star-color.svg">
+   inkscape:version="0.92.2 (unknown)"
+   sodipodi:docname="star-color.svg"
+   inkscape:export-filename="/home/senooken/project/lamsh.github.io/profile/icon/star-color.svg.png"
+   inkscape:export-xdpi="491.51999"
+   inkscape:export-ydpi="491.51999">
   <defs
      id="defs4">
     <linearGradient
@@ -63,16 +67,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.67"
-     inkscape:cx="39.221671"
+     inkscape:cx="-56.471213"
      inkscape:cy="53.625026"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1261"
-     inkscape:window-height="675"
-     inkscape:window-x="1444"
-     inkscape:window-y="45"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
+     inkscape:window-x="1366"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -81,7 +85,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,33 +103,32 @@
        sodipodi:cy="47.589287"
        sodipodi:rx="32.05357"
        sodipodi:ry="32.05357"
-       d="m 86.964283,47.589287 a 32.05357,32.05357 0 1 1 -64.10714,0 32.05357,32.05357 0 1 1 64.10714,0 z"
+       d="m 86.964283,47.589287 a 32.05357,32.05357 0 0 1 -32.05357,32.05357 32.05357,32.05357 0 0 1 -32.05357,-32.05357 32.05357,32.05357 0 0 1 32.05357,-32.05357 32.05357,32.05357 0 0 1 32.05357,32.05357 z"
        transform="matrix(1.5598887,0,0,1.5598888,-35.654601,928.12818)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="triangle"
-     style="opacity:0.93999999;display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:0.93999999">
     <path
        style="fill:#ff0000;fill-rule:evenodd;stroke:none"
-       d="M 50,0 35.5625,25 64.4375,25 50,0 z"
+       d="M 50,0 35.5625,25 64.4375,25 50,0 Z"
        id="path4133"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ff8000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 64.4375,25 78.875,50 93.3125,25 64.4375,25 z"
+       d="M 64.4375,25 78.875,50 93.3125,25 64.4375,25 Z"
        id="path4131"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#ffff00;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 78.875,50 64.4375,75 93.3125,75 78.875,50 z"
+       d="M 78.875,50 64.4375,75 93.3125,75 78.875,50 Z"
        id="path4129"
        inkscape:connector-curvature="0" />
     <path
        style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 64.4375,75 35.5625,75 50,100 64.4375,75 z"
+       d="M 64.4375,75 35.5625,75 50,100 64.4375,75 Z"
        id="path4127"
        inkscape:connector-curvature="0" />
     <path
@@ -135,7 +138,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#8000ff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="M 21.125,50 35.5625,25 6.6875,25 21.125,50 z"
+       d="M 21.125,50 35.5625,25 6.6875,25 21.125,50 Z"
        id="path3013"
        inkscape:connector-curvature="0" />
     <path
