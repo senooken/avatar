@@ -1,7 +1,7 @@
 Author: SENOO, Ken
-(Last Update: 2014-08-25T18:45+09:00)
+Last Update: 2014-08-25T18:45+09:00
 
-プロフィールアイコン star-color.svgの作成メモ。
+プロフィールアイコン StarColor.svgの作成メモ。
 * Inkscapeで作る。
 * 用紙サイズの設定。
 ファイル -> ドキュメントの設定 -> カスタムサイズ
